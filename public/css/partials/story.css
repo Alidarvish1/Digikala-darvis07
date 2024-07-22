@@ -1,0 +1,76 @@
+.story {
+  width: 100%;
+  height: 170px;
+  margin-top: 1px;
+  display: flex;
+  justify-content: center;
+
+  .story_center {
+    width: 85.5%;
+    height: inherit;
+
+    .swiper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .swiper_slide_content {
+        /* row-gap: 25px; */
+        width: 100%;
+        height: 100%;
+        vertical-align: middle;
+        display: inline-block;
+        margin-top: 35px;
+        margin-right: 10px;
+
+        .mmds {
+          width: 74px;
+          height: 74px;
+          border-radius: 50%;
+          outline: 2px solid rgb(155, 2, 185);
+          outline-offset: 3.5px;
+          /* margin-right: 30px;/ */
+        }
+        span {
+          font-family: iranbold-bold;
+          font-size: 11px;
+          color: #575757;
+          display: inline-block;
+          margin-top: 15px;
+          /* background-color: aqua;/ */
+        }
+      }
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    /* dayerash O */
+    .swiper-button-prev,
+    .swiper-rtl .swiper-button-next {
+      width: 40px;
+      height: 40px;
+      background-color: rgb(255, 255, 255);
+      border-radius: 50%;
+      border: 1px solid rgb(209, 209, 209);
+    }
+    /* dakheli> */
+    .swiper-button-next:after,
+    .swiper-rtl .swiper-button-prev:after {
+      font-size: 13px;
+      font-weight: bold;
+      color: rgb(129, 129, 129);
+    }
+  }
+}

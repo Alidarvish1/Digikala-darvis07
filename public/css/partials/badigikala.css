@@ -1,0 +1,149 @@
+.badigikala {
+  width: 100%;
+  height: 298px;
+
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+
+  .badigikala-child {
+    width: 99%;
+    height: inherit;
+
+    display: flex;
+    justify-content: center;
+
+    .badigikala-child-text-1 {
+      width: 33%;
+      height: inherit;
+
+      a {
+        display: flex;
+        justify-self: unset;
+        margin-top: 22px;
+        margin-right: 20px;
+        font-size: 14px;
+        font-family: iranbold-medium;
+        color: rgb(136, 136, 136);
+        word-spacing: -3px;
+      }
+      .bold-badigikala {
+        color: rgb(0, 0, 0);
+        font-size: 17px;
+      }
+    }
+    .badigikala-child-text-2 {
+      width: 33%;
+      height: inherit;
+
+      a {
+        display: flex;
+        justify-self: unset;
+        margin-top: 22px;
+        margin-right: 20px;
+        font-size: 14px;
+        font-family: iranbold-medium;
+        color: rgb(136, 136, 136);
+        word-spacing: -3px;
+      }
+      .bold-badigikala {
+        color: rgb(0, 0, 0);
+        font-size: 17px;
+      }
+    }
+    .badigikala-child-text-3 {
+      width: 33%;
+      height: inherit;
+
+      a {
+        display: flex;
+        justify-self: unset;
+        margin-top: 22px;
+        margin-right: 20px;
+        font-size: 14px;
+        font-family: iranbold-medium;
+        color: rgb(136, 136, 136);
+        word-spacing: -3px;
+      }
+      .bold-badigikala {
+        color: rgb(0, 0, 0);
+        font-size: 17px;
+      }
+    }
+    .badigikala-child-text-4 {
+      width: 33%;
+      height: inherit;
+      /* background-color: rgba(0, 0, 255, 0.481); */
+
+      a {
+        display: flex;
+        justify-self: unset;
+        margin-top: 22px;
+        margin-right: 20px;
+        font-size: 14px;
+        font-family: iranbold-medium;
+        color: rgb(136, 136, 136);
+        word-spacing: -3px;
+      }
+      .bold-badigikala {
+        color: rgb(0, 0, 0);
+        font-size: 17px;
+      }
+      .hamrahi {
+        width: 100%;
+        height: 30px;
+      }
+      .hamrahi-icon {
+        width: 70%;
+        height: 70px;
+
+        display: flex;
+        justify-content: space-around;
+        align-items: end;
+
+        .hamrahi-icon-1 {
+          width: fit-content;
+          height: fit-content;
+          display: contents;
+          svg {
+            margin-top: 20px;
+            stroke: rgb(0, 213, 255);
+            fill: rgb(0, 0, 0);
+          }
+        }
+        .hamrahi-icon-2 {
+          width: fit-content;
+          height: fit-content;
+          display: contents;
+          svg {
+            margin-top: 20px;
+            stroke: rgb(0, 213, 255);
+          }
+        }
+        .hamrahi-icon-3 {
+          width: fit-content;
+          height: fit-content;
+          display: contents;
+          svg {
+            margin-top: 20px;
+            stroke: rgb(0, 213, 255);
+          }
+        }
+        .hamrahi-icon-4 {
+          width: fit-content;
+          height: fit-content;
+          display: contents;
+          svg {
+            margin-top: 20px;
+            stroke: rgb(0, 213, 255);
+            margin-left: 10px;
+          }
+        }
+        .text-badigi {
+          width: 100%;
+          height: 80px;
+        }
+      }
+    }
+  }
+}

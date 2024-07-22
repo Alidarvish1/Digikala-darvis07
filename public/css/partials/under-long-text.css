@@ -1,0 +1,19 @@
+.under-long-text {
+  width: 100%;
+  height: 89px;
+  display: flex;
+  justify-content: center;
+
+  .under-long-text-child {
+    width: 80%;
+    height: 89px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    p {
+      color: rgb(99, 98, 98);
+      font-size: 12px;
+      font-family: iranbold-medium;
+    }
+  }
+}

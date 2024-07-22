@@ -1,0 +1,25 @@
+.sticky-2 {
+  width: 100px;
+  height: 50px;
+  background-color: rgb(26, 131, 0);
+  border-radius: 50px;
+  position: fixed;
+  bottom: 30px;
+  left: 20px;
+  z-index: 2;
+  .sticky-child {
+    color: aliceblue;
+    font-family: iranbold-medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    p {
+      line-height: 47px;
+      color: aliceblue;
+      font-family: iranbold-medium;
+      z-index:-10
+    }
+   
+  }
+}

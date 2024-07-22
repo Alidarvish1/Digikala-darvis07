@@ -1,0 +1,20 @@
+.sticky-1{
+    width: 60px;
+    height: 60px;
+    background-color:#de3355;
+    border-radius: 50px;
+    position: fixed;
+    bottom: 30px;
+    right: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+   
+   .sticky-svg{
+    fill: #ffffff;
+    margin-top: 6px;
+    margin-left: 6px;
+  
+   }
+}

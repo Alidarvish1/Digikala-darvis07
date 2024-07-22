@@ -1,0 +1,185 @@
+.khandaniha {
+  width: 100%;
+  height: 343px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  .khandaniha-child {
+    width: 87%;
+    height: 100%;
+
+    .khandaniha-header-text {
+      width: 100%;
+      height: 65px;
+
+      display: flex;
+      align-items: center;
+    }
+    .khandaniha-header-orginal-text {
+      width: 100px;
+      height: 30px;
+      font-size: 18px;
+      margin-right: 10px;
+      font-family: iranbold-medium;
+      word-spacing: -3px;
+      justify-content: center;
+      display: flex;
+    }
+    .khandaniha-header-text-info {
+      width: inherit;
+      height: 30px;
+      font-size: 13px;
+      margin-right: 10px;
+      font-family: iranbold-medium;
+      justify-content: center;
+      display: flex;
+
+      justify-content: end;
+      margin-left: 20px;
+
+      .plus-info {
+        color: rgb(1, 172, 251);
+      }
+      .svg-khandaniha {
+        width: 10px;
+        height: 10px;
+        margin-right: 5px;
+        margin-top: -1.5px;
+
+        svg {
+          fill: rgb(1, 172, 251);
+
+          margin-bottom: 3px;
+        }
+      }
+    }
+  }
+  .khandaniha-place-img-and-text {
+    width: 100%;
+    height: 278px;
+    column-gap: 12px;
+    display: flex;
+    justify-content: center;
+
+    .place-img-khandaniha-1 {
+      width: 321px;
+      height: 278px;
+      border: 1px solid rgb(207, 207, 207);
+      border-radius: 10px;
+    }
+    .orginal-image-place {
+      width: 100%;
+      height: 200px;
+      background-color: rgb(154, 22, 184);
+      background-image: url(../../images/khandaniha-img/1.png);
+      background-size: cover;
+      border-radius: 10px;
+      border-bottom-left-radius: unset;
+      border-bottom-right-radius: unset;
+    }
+    .text-footer-khandaniha {
+      width: fit-content;
+      height: fit-content;
+
+      color: rgb(0, 0, 0);
+      font-family: iranbold-medium;
+      font-size: 12px;
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      padding-right: 20px;
+      margin-top: 10px;
+    }
+
+    .place-img-khandaniha-2 {
+      width: 322px;
+      height: 278px;
+      border: 1px solid rgb(207, 207, 207);
+      border-radius: 10px;
+    }
+    .orginal-image-place-2 {
+      width: 100%;
+      height: 200px;
+      background-color: rgb(154, 22, 184);
+      background-image: url(../../images/khandaniha-img/2.png);
+      background-size: cover;
+      border-radius: 10px;
+      border-bottom-left-radius: unset;
+      border-bottom-right-radius: unset;
+    }
+    .text-footer-khandaniha-2 {
+      width: fit-content;
+      height: fit-content;
+
+      color: rgb(0, 0, 0);
+      font-family: iranbold-medium;
+      font-size: 12px;
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      padding-right: 20px;
+      margin-top: 10px;
+    }
+
+    .place-img-khandaniha-3 {
+      width: 322px;
+      height: 278px;
+      border: 1px solid rgb(207, 207, 207);
+      border-radius: 10px;
+    }
+    .orginal-image-place-3 {
+      width: 100%;
+      height: 200px;
+      background-color: rgb(154, 22, 184);
+      background-image: url(../../images/khandaniha-img/3.png);
+      background-size: cover;
+      border-radius: 10px;
+      border-bottom-left-radius: unset;
+      border-bottom-right-radius: unset;
+    }
+    .text-footer-khandaniha-3 {
+      width: fit-content;
+      height: fit-content;
+
+      color: rgb(0, 0, 0);
+      font-family: iranbold-medium;
+      font-size: 12px;
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      padding-right: 20px;
+      margin-top: 10px;
+    }
+
+    .place-img-khandaniha-4 {
+      width: 322px;
+      height: 278px;
+      border: 1px solid rgb(207, 207, 207);
+      border-radius: 10px;
+    }
+    .orginal-image-place-4 {
+      width: 100%;
+      height: 200px;
+      background-color: rgb(154, 22, 184);
+      background-image: url(../../images/khandaniha-img/4.png);
+      background-size: cover;
+      border-radius: 10px;
+      border-bottom-left-radius: unset;
+      border-bottom-right-radius: unset;
+    }
+    .text-footer-khandaniha-4 {
+      width: fit-content;
+      height: fit-content;
+      text-align: end;
+
+      color: rgb(0, 0, 0);
+      font-family: iranbold-medium;
+      font-size: 12px;
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      padding-right: 20px;
+      margin-top: 10px;
+    }
+  }
+}

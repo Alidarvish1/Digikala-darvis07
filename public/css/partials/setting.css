@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  
+  
+}
+body {
+  overflow-x:hidden;
+  
+  }
+/* --root{
+  width: 100PX;
+  height: 100PX;
+  background-color: chartreuse;
+} */
+@font-face {
+  font-family: iranbold-medium;
+  src: url(../../fonts/iranbold-medium/IRANYekanWeb-Medium.eot);
+  src: url(../../fonts/iranbold-medium/IRANYekanWeb-Medium.ttf);
+  src: url(../../fonts/iranbold-medium/IRANYekanWeb-Medium.woff);
+  src: url(../../fonts/iranbold-medium/IRANYekanWeb-Medium.woff2);
+}
+@font-face {
+  font-family: iranbold-bold;
+  src: url(../../fonts/iranbold-bold/IRANYekanWeb-Bold.eot);
+  src: url(../../fonts/iranbold-bold/IRANYekanWeb-Bold.ttf);
+  src: url(../../fonts/iranbold-bold/IRANYekanWeb-Bold.woff);
+  src: url(../../fonts/iranbold-bold/IRANYekanWeb-Bold.woff2);
+}

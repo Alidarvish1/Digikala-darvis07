@@ -1,0 +1,77 @@
+.download-app {
+  width: 100%;
+  height: 75px;
+
+  display: flex;
+  justify-content: center;
+  .download-app-child {
+    width: 97%;
+    height: 75px;
+    border-radius: 10px;
+    background-color: #3c4b6d;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+
+    .download-app-child-img {
+      display: flex;
+      align-items: center;
+      justify-content: start;
+
+      .download-app-child-img-child {
+        background-image: url(../../images/download-app/footerlogo2-img.jpg);
+        background-size: contain;
+        margin-right: 30px;
+        width: 45px;
+        height: 45px;
+      }
+    }
+    .download-app-child-text {
+      color: antiquewhite;
+      font-family: iranbold-medium;
+      margin-right: 20px;
+      font-size: 22.3px;
+    }
+    .svg-for-download {
+      width: fit-content;
+      height: fit-content;
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      margin-right: 30px;
+      column-gap: 18px;
+      margin-right: 550px;
+
+      .svg-download-1 {
+        width: fit-content;
+        height: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .svg-download-2 {
+        width: fit-content;
+        height: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .svg-download-3 {
+        width: fit-content;
+        height: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .svg-download-4 {
+        width: 55px;
+        height: 50px;
+        background-color: rgb(243, 243, 243);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 6px;
+      }
+    }
+  }
+}

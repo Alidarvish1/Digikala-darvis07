@@ -1,0 +1,38 @@
+.footer-svg-text {
+  width: 100%;
+  height: 20px;
+
+  display: flex;
+
+  .footer-svg-text-child {
+    width: 100%;
+    height: inherit;
+
+    display: flex;
+    justify-content: space-around;
+    .footer-svg-text-1 {
+      width: fit-content;
+      height: fit-content;
+    }
+    .footer-svg-text-2 {
+      width: fit-content;
+      height: fit-content;
+      margin-right: 30px;
+    }
+    .footer-svg-text-3 {
+      width: fit-content;
+      height: fit-content;
+      margin-right: 40px;
+    }
+    .footer-svg-text-4 {
+      width: fit-content;
+      height: fit-content;
+      margin-right: 13px;
+    }
+    .footer-svg-text-5 {
+      width: fit-content;
+      height: fit-content;
+      margin-right: 12px;
+    }
+  }
+}

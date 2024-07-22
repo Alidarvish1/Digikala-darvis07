@@ -1,0 +1,38 @@
+div.ticket {
+  width: 100%;
+  height: 189px;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  align-content: center;
+}
+div.ticket > div {
+  width: 100px;
+  height: 200px;
+  margin-bottom: -50px;
+  margin-right: 30px;
+  display: flex;
+  flex-flow: column wrap;
+  float: inline-start;
+  vertical-align: middle;
+  text-align: center;
+}
+
+/*    
+    vertical align dhn mno service nmoood:/
+    */
+div.ticket > div > img {
+  width: 50px;
+  height: 50px;
+
+  margin-top: 30px;
+  margin-right: 10px;
+}
+div.ticket > div > p {
+  text-align: center;
+  font-family: iranbold-medium;
+  margin-left: 20px;
+  font-size: 12px;
+  margin-top: 10px;
+  color: rgb(107, 106, 106);
+}

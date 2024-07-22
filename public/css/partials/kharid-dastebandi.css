@@ -1,0 +1,266 @@
+* {
+  box-sizing: border-box;
+}
+.kharid-dastebandi {
+  width: 100%;
+  height: 401px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+
+  .kharid-dastebandi-child {
+    width: 87%;
+    height: inherit;
+
+    .kharid-dastebandi-child-1 {
+      text-align: center;
+      width: 100%;
+      height: 80px;
+
+      color: rgb(0, 0, 0);
+      font-family: iranbold-medium;
+      font-size: 21.5px;
+      word-spacing: -2px;
+    }
+    .kharid-dastebandi-child-2 {
+      width: 100%;
+      height: 327px;
+
+      display: flex;
+      flex-flow: wrap;
+
+      column-gap: 10px;
+      row-gap: 5px;
+      justify-content: center;
+
+      .kharid-dastebandi-child-2-2 {
+        width: 139px;
+        height: 160px;
+
+        box-sizing: border-box;
+
+        .kharid-dastebandi-img {
+          background-image: url(../../images/kharid-dastebandi/1.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-16 {
+          background-image: url(../../images/kharid-dastebandi/2.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-1 {
+          background-image: url(../../images/kharid-dastebandi/1.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-2 {
+          background-image: url(../../images/kharid-dastebandi/3.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-3 {
+          background-image: url(../../images/kharid-dastebandi/12.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-4 {
+          background-image: url(../../images/kharid-dastebandi/8.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-5 {
+          background-image: url(../../images/kharid-dastebandi/6.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-6 {
+          background-image: url(../../images/kharid-dastebandi/7.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-7 {
+          background-image: url(../../images/kharid-dastebandi/9.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-8 {
+          background-image: url(../../images/kharid-dastebandi/10.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-9 {
+          background-image: url(../../images/kharid-dastebandi/11.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-10 {
+          background-image: url(../../images/kharid-dastebandi/12.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-11 {
+          background-image: url(../../images/kharid-dastebandi/13.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-12 {
+          background-image: url(../../images/kharid-dastebandi/14.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-13 {
+          background-image: url(../../images/kharid-dastebandi/15.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-14 {
+          background-image: url(../../images/kharid-dastebandi/16.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+        .kharid-dastebandi-img-15 {
+          background-image: url(../../images/kharid-dastebandi/3.png);
+          display: block;
+          width: 120px;
+          height: 120px;
+          margin: 0 auto;
+          font-size: 15px;
+          font-family: iranbold-medium;
+          line-height: 280px;
+          text-align: center;
+          box-sizing: border-box;
+          background-size: cover;
+        }
+      }
+    }
+  }
+}
